@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper{
+    width: 1000px;
+    margin: 20px auto;
+}
+
+.header{
+    margin-left: 20px;
+}
+
+#goldcount{
+    width: 60px;
+    border: 2px solid black;
+    display: inline-block;
+    vertical-align: top;
+}
+
+p{
+    padding: 0px;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.center{
+    margin: auto;
+    padding: 10px;
+    width:600px;
+    text-align: center;
+}
+
+#placesholder{
+    text-align: center;
+    margin: 20px 0px;
+}
+
+
+.places{
+    padding-top: 10px;
+    margin: 10px 10px;
+    width:220px;
+    height: 150px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    outline: 2px solid black;
+}
+
+.places p{
+    margin: 20px;
+    font-size: 15px;
+}
+
+
+#reset{
+    height: 30px;
+}
+
+h1{
+    color:green;
+    overflow-y: auto;
+}
+
+.winningColor{
+    color:green;
+}
+
+.losingColor{
+    color:red;
+}
+
+.footer{
+    margin: 0px 20px;
+}
+
+.history{
+    height:200px;
+    overflow-y:scroll;
+    outline: 2px solid black;
+}
